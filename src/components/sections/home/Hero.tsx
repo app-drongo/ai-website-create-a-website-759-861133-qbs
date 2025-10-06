@@ -45,7 +45,7 @@ interface HeroProps {
 
 export default function Hero({
   badge = 'New: Enterprise-Grade Security',
-  title = 'Scale your business with',
+  title = 'Scale your business with Our Amazing Platform',
   titleHighlight = 'Acme SaaS Platform',
   description = 'Streamline operations, boost productivity, and accelerate growth with our comprehensive SaaS solution designed for modern businesses.',
   features = [
