@@ -54,7 +54,7 @@ export default function Hero({
     'Real-time collaboration tools',
     'Enterprise security standards',
   ],
-  primaryCTA = 'Start Free Trial',
+  primaryCTA = 'Get Started Free',
   secondaryCTA = 'View Demo',
   imageUrl = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1920&auto=format&fit=crop',
   imageAlt = 'Acme SaaS Dashboard Interface',
